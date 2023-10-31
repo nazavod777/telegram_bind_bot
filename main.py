@@ -66,7 +66,8 @@ async def check_bind(client: pyrogram.client.Client,
         if not bind_text:
             return
 
-        await message.edit_text(text=bind_text)
+        await message.edit_text(text=bind_text,
+                                parse_mode=pyrogram.enums.ParseMode.HTML)
 
 
 if __name__ == '__main__':
