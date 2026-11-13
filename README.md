@@ -12,4 +12,4 @@ A script for adding binds to a Telegram account. After entering the commands ava
 **clear_binds, delete_binds, remove_binds** - _remove all binds, example: **.clear_binds**_  
 _to use an existing bind example_ - **.test_command**  
 
-# DONATE (_any evm_) - 0xDEADf12DE9A24b47Da0a43E1bA70B8972F5296F2
+<a href="https://nazavod.dev/coffee/"><img src="https://github.com/nazavod777/nazavod777/raw/main/assets/coffee.svg" width="300" alt="Buy me a coffee"></a>
